@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="prgs.xsl"?>
+<Objects>
+   <Charset>UTF-8</Charset>
+   <Path>file:///C:/Program Files (x86)/GeneXus/GeneXus17/</Path>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>Home</ObjName>
+      <ObjDesc>Home</ObjDesc>
+      <ObjLink>/OdontologiaJavaSQLServer/com.odontologia.home</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>WWPacientes</ObjName>
+      <ObjDesc>Pacientes</ObjDesc>
+      <ObjLink>/OdontologiaJavaSQLServer/com.odontologia.wwpacientes</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>WWFichas</ObjName>
+      <ObjDesc>Fichas</ObjDesc>
+      <ObjLink>/OdontologiaJavaSQLServer/com.odontologia.wwfichas</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>WWEstado</ObjName>
+      <ObjDesc>Estadoes</ObjDesc>
+      <ObjLink>/OdontologiaJavaSQLServer/com.odontologia.wwestado</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>WWHistoriaClinica</ObjName>
+      <ObjDesc>Historia Clinicas</ObjDesc>
+      <ObjLink>/OdontologiaJavaSQLServer/com.odontologia.wwhistoriaclinica</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>WWLocalidad</ObjName>
+      <ObjDesc>Localidads</ObjDesc>
+      <ObjLink>/OdontologiaJavaSQLServer/com.odontologia.wwlocalidad</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>WWObraSociales</ObjName>
+      <ObjDesc>Obra Sociales</ObjDesc>
+      <ObjLink>/OdontologiaJavaSQLServer/com.odontologia.wwobrasociales</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>WWPracticas</ObjName>
+      <ObjDesc>Practicas</ObjDesc>
+      <ObjLink>/OdontologiaJavaSQLServer/com.odontologia.wwpracticas</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>WWTurnos</ObjName>
+      <ObjDesc>Turnoss</ObjDesc>
+      <ObjLink>/OdontologiaJavaSQLServer/com.odontologia.wwturnos</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>1</ObjCls>
+      <ObjName>ListaPacientes</ObjName>
+      <ObjDesc>Lista Pacientes</ObjDesc>
+      <ObjLink>/OdontologiaJavaSQLServer/com.odontologia.alistapacientes</ObjLink>
+   </Object>
+</Objects>
